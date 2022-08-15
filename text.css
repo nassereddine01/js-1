@@ -1,0 +1,12 @@
+
+        p{
+            margin-left: 10%;
+            margin-right: 30%;
+        }
+        div{
+            border: 2px solid grey;
+            margin-right: 25%;
+        }
+        .highlight {
+            color: teal;
+          }
